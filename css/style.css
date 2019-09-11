@@ -1,0 +1,17 @@
+img {
+  max-width: 100%;
+    height: auto;
+}
+
+.banner {
+  background: url("../Images/hinh-nen-bien.-1jpg.jpg") center;
+  padding: 13rem 0;
+}
+.section-signup {
+  background: url("../Images/hinh-nen-bien.-1jpg.jpg") center;
+  padding: 5rem 0;
+}
+
+.py-10 {
+  padding: 6rem 0;
+}
